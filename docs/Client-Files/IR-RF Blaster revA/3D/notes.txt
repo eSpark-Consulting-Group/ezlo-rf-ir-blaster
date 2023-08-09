@@ -1,0 +1,15 @@
+Notes:
+- the 8 IR LEDs will be bent 90 degree as shown in the render, their direction should remain as shown but their height might be different from what's shown in the model (possibly higher).
+- the two IR LEDs in the middle of the board, can be bent more than 90 deg, so that they also increase coverage in the vertical space.
+- The IR receiver shows up as 2 components, there is provision for two different models and we will populate based on availability. If the SMT version is selected, it points up (verticaly) so the enclosure should have an IR transparent window directly above. If the through hole version is equiped it points in the direction of the USB Type-C connector so the enclosure should have an IR transparent window all around (360 deg) to also include the IR emitters.
+- There are currently two 2.2mm diameter mounting holes which can be used to attach the board to the enclosure with the help of some snapping pins or small screws.
+
+
+-Final version of the PCB that will go in production will likely be revised to switch to smaller components like 0402 for passives.
+ESP32 module antenna area should be kept clear all around (at least a few mm) from any enclosure walls.
+Adjustments to the dimensions of the PCB and/or mounting points size and position for better/easier enclosure design & manufacturing can be made on request.
+Adjustments to the switch position/side/model can be made according with enclosure design decisions but to lower production costs it will ideally remain on the same side with the rest of the components. (the switch can also be left unpopullated if it's not needed in the user interface).
+
+
+Datasheet with dimensions for the tactile switch currently used on the PCB (missing 3D model)
+https://datasheet.lcsc.com/lcsc/2003171832_Yuandi-TS-1075S-A2B2-D4_C492874.pdf

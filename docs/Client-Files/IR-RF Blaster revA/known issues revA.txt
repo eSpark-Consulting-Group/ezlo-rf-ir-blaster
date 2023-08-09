@@ -1,0 +1,1 @@
+1. U5 E07-400M10S CC1101 module footprint is incorrect, does not match part perfectly.
