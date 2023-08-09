@@ -1,5 +1,3 @@
-# ezlo-rf-ir-blaster
-
 # Scope of Work
 
 1. The first task will be to convert the design from KiCAD into Altium.
