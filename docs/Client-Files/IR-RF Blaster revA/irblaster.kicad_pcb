@@ -2734,7 +2734,7 @@
 
   (footprint "Fiducial:Fiducial_0.5mm_Mask1mm" (layer "F.Cu")
     (tstamp b6b28ca1-d452-4ec0-bbab-36bb480f06d8)
-    (at 154.5 158.5)
+    (at 152.4 152.4)
     (descr "Circular Fiducial, 0.5mm bare copper, 1mm soldermask opening (Level C)")
     (tags "fiducial")
     (property "Sheetfile" "irblaster.kicad_sch")
