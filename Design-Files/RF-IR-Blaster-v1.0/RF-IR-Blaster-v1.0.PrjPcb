@@ -134,6 +134,23 @@ GenerateClassCluster=0
 DocumentUniqueId=LCKMWGPX
 
 [Document6]
+DocumentPath=RF-IR-Blaster-v1.0.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GOMMNYJX
+
+[Document7]
 DocumentPath=CC1101-Sheet.SchDot
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -149,23 +166,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UIDLPZMP
-
-[Document7]
-DocumentPath=RF-IR-Blaster-v1.0.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GOMMNYJX
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for RF-IR-Blaster-v1.0\Design Rule Check - RF-IR-Blaster-v1.html
