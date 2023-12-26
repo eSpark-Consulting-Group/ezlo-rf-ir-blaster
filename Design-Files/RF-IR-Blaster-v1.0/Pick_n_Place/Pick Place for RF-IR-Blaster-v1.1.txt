@@ -1,0 +1,81 @@
+Altium Designer Pick and Place Locations
+C:\Users\LiberDB\Documents\GitHub\ezlo-rf-ir-blaster\Design-Files\RF-IR-Blaster-v1.0\Project Outputs for RF-IR-Blaster-v1.0\Pick Place for RF-IR-Blaster-v1.0.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       26/12/23
+Time:       19:46
+Revision:   ef631a875b9d076558e69d9a566cd4c1ad7c44e7
+Variant:    No variations
+Units used: mm
+
+Designator Layer       Center-X(mm) Center-Y(mm) Rotation Ref-X(mm) Ref-Y(mm) Pad-X(mm) Pad-Y(mm) 
+C1         TopLayer    39,8272mm    46,5836mm    270      39,8272mm 46,5836mm 39,8272mm 47,8536mm 
+C2         TopLayer    41,5798mm    47,9171mm    270      41,5798mm 47,9171mm 41,5798mm 48,3870mm 
+C3         TopLayer    10,0078mm    34,0578mm    180      10,0078mm 34,0578mm 11,2778mm 34,0578mm 
+C4         TopLayer    5,6896mm     34,2900mm    0        5,6896mm  34,2900mm 4,9276mm  34,2900mm 
+C5         TopLayer    41,6562mm    42,7210mm    90       41,6562mm 42,7210mm 41,6562mm 42,2511mm 
+C6         TopLayer    6,1216mm     15,6174mm    270      6,1216mm  15,6174mm 6,1216mm  16,0873mm 
+C7         TopLayer    22,8602mm    42,8607mm    270      22,8602mm 42,8607mm 22,8602mm 43,3306mm 
+C8         TopLayer    36,5000mm    37,6664mm    0        36,5000mm 37,6664mm 33,8000mm 37,6664mm 
+C9         TopLayer    17,2500mm    11,2500mm    180      17,2500mm 11,2500mm 19,9500mm 11,2500mm 
+C10        TopLayer    63,3478mm    7,4277mm     270      63,3478mm 7,4277mm  63,3478mm 7,8976mm  
+C11        TopLayer    63,3478mm    5,6624mm     90       63,3478mm 5,6624mm  63,3478mm 5,1925mm  
+C12        TopLayer    34,8054mm    47,6338mm    0        34,8054mm 47,6338mm 34,0434mm 47,6338mm 
+C13        TopLayer    37,1094mm    45,2247mm    90       37,1094mm 45,2247mm 37,1094mm 44,7548mm 
+D1         TopLayer    11,0670mm    23,3916mm    180      11,0670mm 23,3916mm 12,4970mm 23,3916mm 
+F1         TopLayer    10,1348mm    27,9618mm    180      10,1348mm 27,9618mm 10,9848mm 27,9618mm 
+J1         TopLayer    4,9620mm     25,9572mm    270      4,9620mm  25,9572mm 6,9520mm  28,7072mm 
+J2         TopLayer    61,8567mm    22,3638mm    270      61,8567mm 22,3638mm 60,5942mm 24,8638mm 
+J13        TopLayer    45,2374mm    -6,7310mm    0        45,2374mm -6,7310mm 45,2374mm -6,7310mm 
+LED1       TopLayer    63,6018mm    47,8188mm    90       63,6018mm 47,8188mm 63,6018mm 47,3438mm 
+LED2       TopLayer    37,8462mm    18,5656mm    77       37,8462mm 18,5656mm 37,5605mm 17,3282mm 
+LED3       TopLayer    37,5703mm    24,8825mm    130      37,5703mm 24,8825mm 38,3867mm 23,9097mm 
+LED4       TopLayer    32,5376mm    28,4462mm    180      32,5376mm 28,4462mm 33,8076mm 28,4462mm 
+LED5       TopLayer    26,5651mm    26,6859mm    230      26,5651mm 26,6859mm 27,3814mm 27,6588mm 
+LED6       TopLayer    24,2726mm    20,9763mm    282      24,2726mm 20,9763mm 24,0085mm 22,2185mm 
+LED7       TopLayer    27,2468mm    15,6700mm    330      27,2468mm 15,6700mm 26,1469mm 16,3050mm 
+LED8       TopLayer    31,2928mm    21,2852mm    180      31,2928mm 21,2852mm 32,5628mm 21,2852mm 
+LED9       TopLayer    33,2406mm    14,6017mm    25       33,2406mm 14,6017mm 32,0896mm 14,0650mm 
+P1         BottomLayer 12,2500mm    40,0000mm    180      12,2500mm 40,0000mm 12,2500mm 40,0000mm 
+P2         BottomLayer 10,9982mm    29,7434mm    180      10,9982mm 29,7434mm 10,9982mm 29,7434mm 
+P3         BottomLayer 16,1176mm    40,0254mm    180      16,1176mm 40,0254mm 16,1176mm 40,0254mm 
+P4         BottomLayer 58,3186mm    18,5910mm    180      58,3186mm 18,5910mm 58,3186mm 18,5910mm 
+P5         BottomLayer 58,3186mm    20,9532mm    180      58,3186mm 20,9532mm 58,3186mm 20,9532mm 
+P6         BottomLayer 58,3186mm    23,3154mm    180      58,3186mm 23,3154mm 58,3186mm 23,3154mm 
+P7         BottomLayer 58,3186mm    25,6776mm    180      58,3186mm 25,6776mm 58,3186mm 25,6776mm 
+P8         BottomLayer 17,5260mm    2,1082mm     180      17,5260mm 2,1082mm  17,5260mm 2,1082mm  
+P9         BottomLayer 63,5762mm    43,4086mm    270      63,5762mm 43,4086mm 63,5762mm 43,4086mm 
+P10        BottomLayer 16,1176mm    37,4396mm    180      16,1176mm 37,4396mm 16,1176mm 37,4396mm 
+P11        BottomLayer 23,4442mm    44,4246mm    180      23,4442mm 44,4246mm 23,4442mm 44,4246mm 
+P12        BottomLayer 17,5260mm    5,6134mm     180      17,5260mm 5,6134mm  17,5260mm 5,6134mm  
+P13        BottomLayer 33,1216mm    46,0756mm    180      33,1216mm 46,0756mm 33,1216mm 46,0756mm 
+P14        BottomLayer 45,5422mm    9,7224mm     90       45,5422mm 9,7224mm  45,5422mm 9,7224mm  
+P15        BottomLayer 45,5422mm    2,5683mm     90       45,5422mm 2,5683mm  45,5422mm 2,5683mm  
+P16        BottomLayer 45,5422mm    7,3377mm     90       45,5422mm 7,3377mm  45,5422mm 7,3377mm  
+P17        BottomLayer 45,5422mm    0,1836mm     90       45,5422mm 0,1836mm  45,5422mm 0,1836mm  
+P18        BottomLayer 45,5422mm    4,9530mm     90       45,5422mm 4,9530mm  45,5422mm 4,9530mm  
+P19        BottomLayer 45,5422mm    -2,2011mm    90       45,5422mm -2,2011mm 45,5422mm -2,2011mm 
+P20        BottomLayer 58,2930mm    16,2560mm    180      58,2930mm 16,2560mm 58,2930mm 16,2560mm 
+Q1         TopLayer    23,0000mm    4,7500mm     270      23,0000mm 4,7500mm  22,0000mm 5,7000mm  
+R1         TopLayer    9,5885mm     25,4508mm    180      9,5885mm  25,4508mm 10,0584mm 25,4508mm 
+R2         TopLayer    9,5885mm     26,4668mm    180      9,5885mm  26,4668mm 10,0584mm 26,4668mm 
+R3         TopLayer    40,3608mm    42,7210mm    270      40,3608mm 42,7210mm 40,3608mm 43,1909mm 
+R4         TopLayer    6,1216mm     13,7505mm    270      6,1216mm  13,7505mm 6,1216mm  14,2204mm 
+R5         TopLayer    63,6018mm    45,3753mm    270      63,6018mm 45,3753mm 63,6018mm 45,8452mm 
+R6         TopLayer    22,8602mm    40,9049mm    270      22,8602mm 40,9049mm 22,8602mm 41,3748mm 
+R7         TopLayer    37,5000mm    5,0378mm     270      37,5000mm 5,0378mm  37,5000mm 6,5278mm  
+R8         TopLayer    27,7500mm    5,0378mm     270      27,7500mm 5,0378mm  27,7500mm 6,5278mm  
+R9         TopLayer    31,0000mm    5,0378mm     270      31,0000mm 5,0378mm  31,0000mm 6,5278mm  
+R10        TopLayer    34,2500mm    5,0378mm     270      34,2500mm 5,0378mm  34,2500mm 6,5278mm  
+R11        TopLayer    19,9644mm    5,6134mm     180      19,9644mm 5,6134mm  20,4343mm 5,6134mm  
+R12        TopLayer    19,9771mm    4,5974mm     0        19,9771mm 4,5974mm  19,5072mm 4,5974mm  
+R14        TopLayer    54,7370mm    14,7037mm    90       54,7370mm 14,7037mm 54,7370mm 14,2338mm 
+SW1        TopLayer    1,8770mm     14,4578mm    90       1,8770mm  14,4578mm 3,0020mm  12,3578mm 
+U1         TopLayer    52,0572mm    39,7574mm    0        52,0572mm 39,7574mm 43,3072mm 48,6374mm 
+U2         TopLayer    6,5000mm     38,1000mm    0        6,5000mm  38,1000mm 5,0000mm  36,9675mm 
+U3         TopLayer    27,5846mm    43,1528mm    180      27,5846mm 43,1528mm 30,4846mm 41,8828mm 
+U4         TopLayer    54,7500mm    0,5000mm     180      54,7500mm 0,5000mm  61,3000mm -8,0000mm 
+U5         TopLayer    34,9614mm    44,9162mm    90       34,9614mm 44,9162mm 34,0114mm 43,6162mm 
+U7         TopLayer    58,9534mm    14,1986mm    0        58,9534mm 14,1986mm 56,3034mm 16,4736mm 
